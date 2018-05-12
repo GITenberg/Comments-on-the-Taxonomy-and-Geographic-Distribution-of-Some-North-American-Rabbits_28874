@@ -1,0 +1,33 @@
+_repo: Comments-on-the-Taxonomy-and-Geographic-Distribution-of-Some-North-American-Rabbits_28874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kelson, Keith R.
+    gutenberg_agent_id: '33555'
+    url: http://www.gutenberg.org/2009/agents/33555
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28874'
+  lccn: '51062734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- North America'
+- !lcc 'QH'
+- !lcsh 'Rabbits'
+title: Comments on the Taxonomy and Geographic Distribution of Some North American
+  Rabbits
+url: http://www.gutenberg.org/ebooks/28874
